@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /favicon.ico
 
 # For seo
-keywords: forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+keywords: 笑看人生,刘振,前端,前端开发,nodejs,JavaScript,java,mysql,mongodb,nginx,linux,apache,php,centos,oracle
 
 home_nav:
   - name: blog
@@ -19,12 +19,6 @@ home_nav:
   - name: Project
     url: /project/
     target_blank: true #在新页面打开
-  - name: Github
-    url: https://github.com/forsigner
-    target_blank: true
-  - name: Twitter
-    url: https://twitter.com/forsigner
-    target_blank: true
 
 # config page nav
 page_nav:
@@ -43,9 +37,6 @@ page_nav:
   - name: 关于
     url: /about/
     target_blank: false
-  - name: RSS
-    url: /atom.xml
-    target_blank: true # 在新页面打开
   - name: 搜索
     url: /search/
     target_blank: false # 在新页面打开
@@ -145,104 +136,38 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "Scut，1991，Spring."
-    - "喜欢设计，擅长编程，喜欢睡懒觉."
-    - "前端开发工程师，常用 HTML / CSS / JavaScript."
-  - type: Github
-    icon: icon-github
-    text_key: Github
-    text_value: "@forsigner"
-    text_value_url: https://github.com/forsigner
-  - type: weibo
-    icon: icon-weibo
-    text_key: 微博
-    text_value: "@forsigner"
-    text_value_url: http://weibo.com/u/1847075964
+    - "刘振，1991."
+    - "软件工程师"
+  #- type: Github
+  #  icon: icon-github
+  #  text_key: Github
+  #  text_value: "@forsigner"
+  #  text_value_url: https://github.com/forsigner
+  #- type: weibo
+  #  icon: icon-weibo
+  #  text_key: 微博
+  #  text_value: "@forsigner"
+  #  text_value_url: http://weibo.com/u/1847075964
   - type: mail
     icon: icon-mail
-    text_key: Gmail
-    text_value: "forsigner@gmail.com"
+    text_key: Email
+    text_value: "liuzhenlife#163.com"
   - type: location
     icon: icon-location
-    text_value: 珠海
+    text_value: 北京
 
 link:
-  - name: 织网
-    info: 身体和灵魂，总有一个在路上
-    url: http://zheng-ji.info/
-    avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=100
-  - name: Dongyado
-    info: 生命不止，折腾不息
-    url: http://dongyado.com/
-    avatar: https://avatars0.githubusercontent.com/u/6274940?v=3&s=100
-  - name: OrangeCoder
-    info: android ffmpeg nodejs gradle
-    url: http://orangecoder.com/
-    avatar: https://avatars0.githubusercontent.com/u/2263785?v=3&s=100
-  - name: EverET
-    info: 好记性不如烂笔头
-    url: http://everet.org/about-me/
-    avatar: https://avatars1.githubusercontent.com/u/1559563?v=3&s=100
-  - name: 题叶
-    info: FP, GUI, Writing
-    url: http://tiye.me/
-    avatar: https://avatars2.githubusercontent.com/u/449224?v=3&s=100
-  - name: McChen
-    info: Stay Hungry, Stay Foolish
-    url: http://mcchen.club/
-    avatar: https://avatars0.githubusercontent.com/u/8033333?v=3&s=100
-
+  - name: 北京雷铭智信科技有限公司
+    info: 雷铭电子商务系统提供企业级的Java电子商务解决方案，为全国中小企业提供PC,APP,微信商城一站式全套产品，做到四网合一,满足广大企业及开发商电子商务发展需求及定制开发需求。
+    url: http://www.leimingtech.com
+    avatar: http://www.leimingtech.com/resource/images/lmlogo.png
 
 project:
   - type: personal
-    name: myfexo
-    url: https://github.com/forsigner/myfexo
-    intro: A minimalist design theme for hexo
-  # - type: company
-  #   name: Fexo
-  #   url: https://github.com/forsigner/fexo
-  #   intro: A minimalist design theme for hexo
-  - type: personal
-    name: beside
-    url: https://github.com/forsigner/beside
-    intro: I need you beside me
-  - type: personal
-    name: web-fontmin
-    url: https://github.com/forsigner/web-fontmin
-    intro: 字体子集化，在线提取你需要的字体
-  - type: personal
-    name: magic-check
-    url: https://github.com/forsigner/magic-check
-    intro: Beautify Radio and Checkbox with pure CSS
-  - type: personal
-    name: nice-bar
-    url: https://github.com/forsigner/nice-bar
-    intro: A nice and lightweight scrollbar
-  - type: personal
-    name: angular-nice-bar
-    url: https://github.com/forsigner/angular-nice-bar
-    intro: A nice and lightweight scrollbar in Angular
-  - type: personal
-    name: fo-popover
-    url: https://github.com/forsigner/fo-popover
-    intro: A nice popover for Angular
-  - type: personal
-    name: fo-tooltip
-    url: A nice tooltip for Angular
-    intro: https://github.com/forsigner/fo-tooltip
-  - type: personal
-    name: fo-modal
-    url: https://github.com/forsigner/fo-modal
-    intro: A nice modal for Angular
-  - type: personal
-    name: mocer
-    url: https://github.com/forsigner/mocer
-    intro: Setup a mock server easily
-  - type: personal
-    name: node-pngdefry
-    url: https://github.com/forsigner/node-pngdefry
-    intro: Repairing iPhone fried PNGs using Node.js
-  - type: personal
-    name: ng-simditor
-    url: https://github.com/forsigner/ng-simditor
-    intro: Angular directive for simditor
+    name: B2B2C商城
+    url: http://www.leimingtech.com
+    intro: 雷铭电子商务系统提供企业级的Java电子商务解决方案，为全国中小企业提供PC,APP,微信商城一站式全套产品，做到四网合一,满足广大企业及开发商电子商务发展需求及定制开发需求。
+  - type: company
+    name: CMS内容管理系统
+    url: http://www.leimingtech.com
+    intro: 雷铭网站群内容管理系统提供企业级的内容管理解决方案，为新闻媒体,企事业单位提供站群版PC,APP,微网站一站式全套产品，做到四网合一,满足广大企业及开发商网站群需求及定制开发需求。
