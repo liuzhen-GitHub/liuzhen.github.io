@@ -136,7 +136,7 @@ ServerName 127.0.0.1:80或者ServerName localhost:80
 DirectoryIndex index.html
 </IfModule>
 ```
-添加 <font color=red >index.php</font>：
+添加 `index.php`：
 ``` xml
 <IfModule dir_module>
 DirectoryIndex index.php index.html
