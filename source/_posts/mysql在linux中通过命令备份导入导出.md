@@ -1,7 +1,7 @@
 ---
 title: mysql在linux中通过命令备份 导入导出
 tags: [mysql备份,mysql导入导出]
-categories: mysql
+categories: linux
 ---
 
 ## 连接到远程linux数据库
